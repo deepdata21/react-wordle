@@ -1,1 +1,1 @@
-# react-wordle
+# Wordle app built with React
